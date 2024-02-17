@@ -10,3 +10,6 @@ Change your robux value locally
 4. The extension should be loaded, and you can visit https://www.roblox.com/ to see the Robux value modified to the number you specified by clicking the extension popup.
 
 Please note that modifying the visual Robux value does not affect your actual Robux balance on the Roblox platform. The modification is only visible locally on your browser.
+
+
+THE EXTENSION IS NOT CURRENTLY WORKING RIGHT NOW
